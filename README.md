@@ -1,5 +1,5 @@
 ### Hi there 👋
--I'm Aman, and I'm currently learning to become a full-stack developer
+- I'm Aman, and I'm currently learning to become a full-stack developer
 
 - 🔭 I’m currently working on enhancing my skills as a full stack developer.
 - 🌱 I’m currently learning data structures and algorithms to strengthen my problem-solving abilities.
