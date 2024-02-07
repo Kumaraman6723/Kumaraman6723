@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Aman, and I'm currently learning to become a full-stack developer
+
+🔭 I’m currently working on enhancing my skills as a full stack developer.
+🌱 I’m currently learning data structures and algorithms to strengthen my problem-solving abilities.
+📫 You can reach me on Instagram: @aman.k.prasad
+😄 Pronouns: he/him
+⚡ Fun fact: "Did you know? The term 'bug' in tech comes from an actual insect causing a glitch in a computer back in 1947!" 🐞👾
+👯 Feel free to ask me anything or collaborate on exciting projects! 😄
+
+
 
 <!--
 **Kumaraman6723/Kumaraman6723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
